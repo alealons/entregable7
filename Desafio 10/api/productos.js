@@ -1,6 +1,6 @@
 class Productos {
     constructor() {
-        this.count =0
+        this.count = 0
         this.productos = []
     }
    listar(){

@@ -1,0 +1,2 @@
+Ejs se ha hecho un poco mas facil ya que el html es bastante mas facil de codear que el de Pug que seria un poco mas complejo,
+de todas formas los dos estan buenos, pero prefiero Ejs por el hecho de que su estructura es similar a la de HTML, y pug no tanto.
