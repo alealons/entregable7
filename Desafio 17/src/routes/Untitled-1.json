@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM mensajes;","header":["id","mensaje","email","fecha"],"rows":[["1","primer mensaje","emanuel@gmail.com","2021-06-03 01:30:45"],["2","NULL","NULL","2021-07-04 22:14:01"],["3","mensaje","f@gmail.com","1625437542190"],["4","mensaje","f@gmail.com","4/7/2021 19:26:10"]]}]
